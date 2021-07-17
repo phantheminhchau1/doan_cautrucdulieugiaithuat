@@ -1,4 +1,4 @@
-# Đồ án cấu truucs dữ liệu và giải thuật
+# Đồ án cấu trúc dữ liệu và giải thuật
 - Phan Thế Minh Châu
 - 20E1020067
 <div>
